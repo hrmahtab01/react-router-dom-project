@@ -1,0 +1,413 @@
+
+#banner{
+  padding: 184px 0 184px;
+  background: #FFF8F3;
+  position: relative;
+  margin-bottom: 130px;
+
+  
+}
+.banner_text_part h4{
+
+  font-size: 45px;
+  font-weight: 600;
+  color: #474747;
+  font-family: "Open Sans", sans-serif;
+
+}
+.banner_text_part h1{
+
+  font-size: 85px;
+  font-weight: 700;
+  color: #181818;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px;
+}
+
+.banner_text_part p{
+
+  font-size: 18px;
+  font-weight: 400;
+  color: #757575;
+  font-family: "Open Sans", sans-serif;
+  line-height: 30px;
+  width: 585px;
+  margin-bottom: 30px;
+}
+
+.banner_btn{
+  display: flex;
+  gap: 30px;
+}
+.banner_btn .navbtn{
+  font-size: 20px;
+  font-weight: 600;
+}
+.banner_btn .banner_icon{
+  margin-right: 10px;
+}
+.circle_one{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.circle_two{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.circle_three{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.banner_Img{
+  position: absolute;
+  bottom: 0;
+  right: 100px;
+}
+
+
+.dv_part h2{
+  font-size: 100px;
+  font-weight: 700;
+  letter-spacing: 30px;
+  color: rgba(24, 24, 24, 0.15);
+  position: absolute;
+  top: 243px;
+  left: -300px;
+  transform: rotate(271deg);
+  -webkit-transform: rotate(271deg);
+  -moz-transform: rotate(271deg);
+  -ms-transform: rotate(271deg);
+  -o-transform: rotate(271deg);
+}
+
+
+.about_part{
+  background: #FFF8F3;
+  padding: 130px 155px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  margin-bottom: 130px;
+}
+
+.about_part h2{
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+.about_part p{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #757575;
+  width: 810px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* .about_bottom .name p{
+  text-align: center;
+} */
+
+.about_bottom{
+  display: flex;
+  gap: 50px;
+justify-content: center;
+
+}
+.about_bottom h5{
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  color: #757575;
+  line-height: 30px;
+  font-family: "Open Sans", sans-serif;
+
+}
+
+.about_bottom h4{
+  font-size: 20px;
+  font-weight: 700;
+  color: #757575;
+  line-height: 30px;
+  font-family: "Open Sans", sans-serif;
+
+}
+
+
+
+/*=====================
+about_part end
+======================*/
+
+
+
+/*=====================
+skill part start
+======================*/
+#skill{
+  margin-bottom: 130px
+}
+.skill_heading h2{
+font-size: 35px;
+font-weight: 700;
+color: #181818;
+font-family: "Open Sans", sans-serif;
+text-align: center;
+margin-bottom: 30px;
+
+}
+
+.skill_heading p{
+  font-size: 18px;
+  font-weight: 400;
+  color: #757575;
+  width: 900px;
+  line-height: 30px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.skill_list_item{
+  display: flex;
+  gap: 30px;
+ 
+ 
+}
+.skill_list {
+  background:#FFF8F3 ;
+  border: 2px solid #FFFFFF;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  padding: 30px;
+  
+}
+.skill_list h3{
+  font-size: 20px;
+  font-weight: 700;
+  color: #181818;
+font-family: "Open Sans", sans-serif;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+.skill_list p{
+  font-size: 16px;
+  font-weight: 400;
+font-family: "Open Sans", sans-serif;
+color: #757575;
+line-height: 30px;
+width: 201px;
+}
+/*=====================
+skill part end
+======================*/
+
+/*=====================
+resume part start
+======================*/
+
+#resume{
+  margin-bottom: 113px;
+}
+
+.resume_head h2{
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+font-family: "Open Sans", sans-serif;
+text-align: center;
+margin-bottom: 113px;
+
+}
+.education_part h3{
+  font-size: 30px;
+  font-weight: 700;
+  color: #474747;
+  margin-bottom: 30px;
+font-family: "Open Sans", sans-serif;
+
+  
+}
+
+.education_part h4{
+  font-size: 25px;
+  font-weight: 700;
+  color: #474747;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 10px;
+}
+.education_part h5{
+  font-size: 20px;
+  font-weight: 500;
+  color: #757575;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px
+
+}
+.education_part p{
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+  font-family: "Open Sans", sans-serif;
+  width: 510px;
+  line-height: 28px;
+  margin-bottom: 30px;
+
+}
+.education_part .line{
+  width: 558px;
+  height: 2px;
+  background: #D1D1D1;
+  margin-bottom: 30px;
+}
+.education_flex{
+  display: flex;
+  gap: 24px;
+}
+.education_flex_last{
+  display: flex;
+  gap: 71px;
+}
+.download_btn{
+  display: flex;
+  justify-content: center;
+}
+.download_btn button{
+  padding: 18px 17px;
+  background: #FD6E0A;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #FFFFFF;
+  margin-top: 50px;
+}
+.dicon_gap{
+  margin-right: 10px;
+}
+/*=====================
+resume part end
+======================*/
+
+
+
+/*=====================
+footer part start
+======================*/
+#footer{
+  padding: 130px 0 130px;
+  background: #FFF8F3;
+}
+.connect_part h2{
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px;
+
+}
+.connect_part p{
+  font-size: 16px;
+  font-weight: 400;
+  color: #474747;
+  font-family: "Open Sans", sans-serif;
+  width: 542px;
+  margin-bottom: 30PX;
+}
+.connect_icon ul{
+  display: flex;
+  gap: 24PX;
+}
+.connect_icon ul li a{
+  width: 24px;
+  height: 24px;
+  color: #FD6E0A;
+}
+.msg_part h3{
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 28px;
+
+}
+.holder_one input{
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+  line-height: 28px;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  width: 461px;
+  height: 64px;
+  padding-left: 30px;
+  margin-bottom: 24px;
+
+}
+.holder_last input{
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+  line-height: 28px;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  width: 461px;
+  padding-bottom: 134px;
+  padding-left: 30px;
+  padding-top: 18px;
+  margin-bottom: 30px;
+  
+
+}
+.msg_part .button{
+  font-size: 20px;
+  font-weight: 700;
+  color: #FFFFFF;
+  background: #FD6E0A;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  padding: 18px 39px;
+  margin-top: 24px;
+  text-decoration: none;
+
+}
+/*=====================
+footer part end
+======================*/
+/*=====================
+resume part start
+======================*/
+/*=====================
+resume part end
+======================*/

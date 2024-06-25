@@ -1,0 +1,29 @@
+
+.navbtn{
+  padding: 18px 35px;
+  background: #FD6E0A;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+.navbar ul li a{
+
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #474747;
+  margin-right: 50px;
+
+}
+
+.navbar{
+  background: #FFF8F3;
+  padding-top: 50px
+
+}
